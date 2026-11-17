@@ -1,0 +1,18 @@
+[theme]
+base = "dark"
+primaryColor = "#8b7cf6"
+backgroundColor = "#0d0f14"
+secondaryBackgroundColor = "#1b1e29"
+textColor = "#f2f2f0"
+borderColor = "#2a2e3b"
+linkColor = "#a99ff9"
+baseRadius = "0.7rem"
+baseFontSize = 18
+headingFontWeights = [700, 650, 600, 600, 600, 600]
+dataframeHeaderBackgroundColor = "#1b1e29"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
